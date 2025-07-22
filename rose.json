@@ -1,0 +1,38 @@
+{
+  "squadre": [
+    {
+      "nome": "Inter",
+      "giocatori": [
+        {
+          "nome": "Yann Sommer",
+          "ruolo": "Portiere"
+        },
+        {
+          "nome": "Alessandro Bastoni",
+          "ruolo": "Difensore"
+        },
+        {
+          "nome": "Lautaro Martínez",
+          "ruolo": "Attaccante"
+        }
+      ]
+    },
+    {
+      "nome": "Juventus",
+      "giocatori": [
+        {
+          "nome": "Wojciech Szczęsny",
+          "ruolo": "Portiere"
+        },
+        {
+          "nome": "Gleison Bremer",
+          "ruolo": "Difensore"
+        },
+        {
+          "nome": "Dusan Vlahović",
+          "ruolo": "Attaccante"
+        }
+      ]
+    }
+  ]
+}
