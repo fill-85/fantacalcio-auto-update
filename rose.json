@@ -7,7 +7,7 @@
           "nome": "Yann Sommer",
           "ruolo": "Portiere",
           "eta": 35,
-          "valore": "3 mln \u20ac",
+          "valore": "3 mln €",
           "formazione_probabile": true,
           "rigorista": false,
           "punizioni": false,
@@ -15,10 +15,10 @@
           "rigori_parati": 2
         },
         {
-          "nome": "Lautaro Mart\u00ednez",
+          "nome": "Lautaro Martínez",
           "ruolo": "Attaccante",
           "eta": 27,
-          "valore": "85 mln \u20ac",
+          "valore": "85 mln €",
           "formazione_probabile": true,
           "rigorista": true,
           "punizioni": false
@@ -29,10 +29,10 @@
       "nome": "Juventus",
       "giocatori": [
         {
-          "nome": "Wojciech Szcz\u0119sny",
+          "nome": "Wojciech Szczęsny",
           "ruolo": "Portiere",
           "eta": 34,
-          "valore": "10 mln \u20ac",
+          "valore": "10 mln €",
           "formazione_probabile": true,
           "rigorista": false,
           "punizioni": false,
@@ -40,13 +40,38 @@
           "rigori_parati": 1
         },
         {
-          "nome": "Du\u0161an Vlahovi\u0107",
+          "nome": "Federico Chiesa",
           "ruolo": "Attaccante",
-          "eta": 24,
-          "valore": "60 mln \u20ac",
+          "eta": 26,
+          "valore": "40 mln €",
+          "formazione_probabile": true,
+          "rigorista": false,
+          "punizioni": true
+        }
+      ]
+    },
+    {
+      "nome": "Napoli",
+      "giocatori": [
+        {
+          "nome": "Alex Meret",
+          "ruolo": "Portiere",
+          "eta": 27,
+          "valore": "10 mln €",
+          "formazione_probabile": true,
+          "rigorista": false,
+          "punizioni": false,
+          "imbattibilita": 8,
+          "rigori_parati": 1
+        },
+        {
+          "nome": "Victor Osimhen",
+          "ruolo": "Attaccante",
+          "eta": 25,
+          "valore": "100 mln €",
           "formazione_probabile": true,
           "rigorista": true,
-          "punizioni": true
+          "punizioni": false
         }
       ]
     }
