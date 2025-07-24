@@ -10,9 +10,10 @@ body {
   margin-bottom: 20px;
 }
 
-select {
+select, input, button {
   padding: 8px;
   font-size: 16px;
+  margin: 5px;
 }
 
 table {
